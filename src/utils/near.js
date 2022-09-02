@@ -31,9 +31,8 @@ export async function initializeContract() {
     window.walletConnection.account(),
     nearEnv.contractName,
     {
-      // viewMethods: ['getQuote', 'getQuotes'],
-      // changeMethods: ['likeQuote', 'addQuote', 'getUserQuotes'],
-      changeMethods: ['nft_mint'],
+      changeMethods: ['subscripe'],
+      viewMethods: ['getAvailableServices'],
     }
   );
 }
