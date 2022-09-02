@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/subbox/static/css/main.666f31ab.css",
+    "main.js": "/subbox/static/js/main.fd6d9035.js",
+    "static/media/open-box.png": "/subbox/static/media/open-box.5ce13024f021ece9ee60.png",
+    "index.html": "/subbox/index.html",
+    "main.666f31ab.css.map": "/subbox/static/css/main.666f31ab.css.map",
+    "main.fd6d9035.js.map": "/subbox/static/js/main.fd6d9035.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666f31ab.css",
+    "static/js/main.fd6d9035.js"
+  ]
+}
